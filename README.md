@@ -1,2 +1,2 @@
 # SSMP
-This is a private reposity
+This is a public responsity
